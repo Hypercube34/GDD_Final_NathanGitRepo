@@ -2472,3 +2472,216 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.12-20.25.06:198][147]SourceControl: [main 2d4cd96] Created Door Visual Model And Interaction Hitbox. RunePad Should be Active variable now defaults to true.
 [2025.12.12-20.25.06:198][147]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2025.12.12-20.25.06:438][147]SourceControl: Commited [main 2d4cd96] Created Door Visual Model And Interaction Hitbox. RunePad Should be Active variable now defaults to true..
+[2025.12.12-20.25.45:493][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2111.956055
+[2025.12.12-20.25.45:609][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-20.25.45:610][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2112.057617, Update Interval: 303.180634
+[2025.12.12-20.26.21:662][332]LogSlate: Took 0.000462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.12.12-20.28.32:968][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.28.33:057][428]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_PuzzleDoor] ([2] browsable assets)...
+[2025.12.12-20.28.33:080][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_PuzzleDoor.BP_PuzzleDoor]
+[2025.12.12-20.28.33:080][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_PuzzleDoor]
+[2025.12.12-20.28.33:101][428]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_PuzzleDoor
+[2025.12.12-20.28.33:103][428]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_PuzzleDoorFAB344A449EDD69CE09486B17DE78B15.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_PuzzleDoor.uasset'
+[2025.12.12-20.28.33:121][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.763 ms (total: 7.56 sec)
+[2025.12.12-20.28.33:445][428]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.28.33:445][428]LogContentValidation: Enabled validators:
+[2025.12.12-20.28.33:445][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.28.33:445][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.28.33:445][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.28.33:445][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.28.33:445][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.28.33:445][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.28.33:445][428]AssetCheck: /Game/LevelObjects/BP_PuzzleDoor Validating asset
+[2025.12.12-20.29.01:909][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.12.12-20.29.03:369][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.12.12-20.29.42:154][487]Cmd: EDIT COPY
+[2025.12.12-20.29.42:518][503]Cmd: EDIT PASTE
+[2025.12.12-20.29.47:410][665]Cmd: EDIT COPY
+[2025.12.12-20.29.47:688][667]Cmd: EDIT PASTE
+[2025.12.12-20.29.52:639][832]Cmd: EDIT COPY
+[2025.12.12-20.29.52:858][842]Cmd: EDIT PASTE
+[2025.12.12-20.29.57:549][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.29.57:665][967]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/RM/VOCWHYGUDIEMA9EGSN4O95
+[2025.12.12-20.29.57:668][967]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/VOCWHYGUDIEMA9EGSN4O95F44ABF2D4D1FCDAC032F64964DB295F0.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/RM/VOCWHYGUDIEMA9EGSN4O95.uasset'
+[2025.12.12-20.29.57:689][967]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/2K/PQADYZPOYYF8I764QZI88E
+[2025.12.12-20.29.57:689][967]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/PQADYZPOYYF8I764QZI88E39B14EB0487264B4357757AB56A019EC.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/2K/PQADYZPOYYF8I764QZI88E.uasset'
+[2025.12.12-20.29.57:709][967]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/W1/ZV97L9TLY7OKYN94MJOITI
+[2025.12.12-20.29.57:709][967]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/ZV97L9TLY7OKYN94MJOITI7A5EB7DA4070574B1D29F4A919DED7A6.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/W1/ZV97L9TLY7OKYN94MJOITI.uasset'
+[2025.12.12-20.29.57:730][967]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/KP/RXSMDJWFFEPDLLE9M5RAY5
+[2025.12.12-20.29.57:730][967]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/RXSMDJWFFEPDLLE9M5RAY56EC9F9D64CC49B9A79815AB6B41FE8E6.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/KP/RXSMDJWFFEPDLLE9M5RAY5.uasset'
+[2025.12.12-20.29.58:421][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 872.253 ms (total: 8.43 sec)
+[2025.12.12-20.29.58:527][967]LogContentValidation: Display: Starting to validate 5 assets
+[2025.12.12-20.29.58:527][967]LogContentValidation: Enabled validators:
+[2025.12.12-20.29.58:527][967]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.29.58:527][967]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.29.58:527][967]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.29.58:527][967]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.29.58:527][967]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.29.58:527][967]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.29.58:528][967]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.12.12-20.30.00:658][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelObjects/BP_PuzzleDoor.BP_PuzzleDoor_C
+[2025.12.12-20.30.00:658][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelObjects/BP_PuzzleDoor.BP_PuzzleDoor_C
+[2025.12.12-20.30.00:661][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelObjects/BP_PuzzleDoor.BP_PuzzleDoor as actor: BP_PuzzleDoor_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PuzzleDoor_C_0
+[2025.12.12-20.30.00:665][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelObjects/BP_PuzzleDoor.BP_PuzzleDoor as actor: BP_PuzzleDoor_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PuzzleDoor_C_0
+[2025.12.12-20.30.03:422][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.12.12-20.30.03:428][126]LogEditorActor: Deleted 0 Actors (0.060 secs)
+[2025.12.12-20.30.03:436][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelObjects/BP_PuzzleDoor.BP_PuzzleDoor_C
+[2025.12.12-20.30.03:436][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelObjects/BP_PuzzleDoor.BP_PuzzleDoor_C
+[2025.12.12-20.30.03:441][126]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelObjects/BP_PuzzleDoor.BP_PuzzleDoor as actor: BP_PuzzleDoor_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PuzzleDoor_C_UAID_C03EBA49A2A1E8AA02_1836538851
+[2025.12.12-20.30.03:445][126]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelObjects/BP_PuzzleDoor.BP_PuzzleDoor as actor: BP_PuzzleDoor_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PuzzleDoor_C_UAID_C03EBA49A2A1E8AA02_1836538851
+[2025.12.12-20.30.17:263][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.30.17:369][564]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/EW/FDELN26229XREQ0N1NHHMO
+[2025.12.12-20.30.17:369][564]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/FDELN26229XREQ0N1NHHMO015256C54871272CAD648D95BF9293E2.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/EW/FDELN26229XREQ0N1NHHMO.uasset'
+[2025.12.12-20.30.17:944][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 680.699 ms (total: 9.11 sec)
+[2025.12.12-20.30.18:032][564]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.30.18:032][564]LogContentValidation: Enabled validators:
+[2025.12.12-20.30.18:032][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.30.18:032][564]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.30.18:032][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.30.18:032][564]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.30.18:032][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.30.18:032][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.30.18:032][564]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.12.12-20.30.22:406][718]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-20.30.22:418][718]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.12-20.30.22:419][718]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.12.12-20.30.22:420][718]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.278 ms (total: 3.714 ms)
+[2025.12.12-20.30.22:420][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.12-20.30.22:420][718]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2025.12.12-20.30.22:424][718]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.12.12-20.30.22:460][719]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.12.12-20.30.22:474][719]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.12-20.30.22:478][719]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.271 ms (total: 9.424 ms)
+[2025.12.12-20.30.22:478][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017792s)
+[2025.12.12-20.30.22:478][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.017853s)
+[2025.12.12-20.30.22:521][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.12.12-20.30.22:523][719]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.12.12-20.30.22:527][719]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.12-20.30.22:527][719]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.12-20.30.22:527][719]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.12-20.30.22:527][719]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.12-20.30.22:530][719]LogWorldPartition: Display: WorldPartition initialize took 3.567 ms (total: 183.456 ms)
+[2025.12.12-20.30.22:530][719]LogPlayLevel: PIE: World Init took: (0.006531s)
+[2025.12.12-20.30.22:531][719]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.12.12-20.30.22:532][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-20.30.22:532][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-20.30.22:532][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-20.30.22:532][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-20.30.22:532][719]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-20.30.22:532][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-20.30.22:532][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-20.30.22:532][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-20.30.22:532][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-20.30.22:532][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-20.30.22:532][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-20.30.22:535][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-20.30.22:576][719]LogAudioMixer: Display: Using Audio Hardware Device Speakers (FxSound Audio Enhancer)
+[2025.12.12-20.30.22:576][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-20.30.22:576][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-20.30.22:576][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-20.30.22:577][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.12.12-20.30.22:577][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.12.12-20.30.22:581][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.12.12-20.30.22:581][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.12.12-20.30.22:581][719]LogInit: FAudioDevice initialized with ID 4.
+[2025.12.12-20.30.22:581][719]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ThirdPerson'.
+[2025.12.12-20.30.22:581][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.12-20.30.22:589][719]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.12-20.30.22:595][719]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2025.12.12-15.30.22
+[2025.12.12-20.30.22:596][719]LogWorld: Bringing up level for play took: 0.005867
+[2025.12.12-20.30.22:606][719]PIE: Server logged in
+[2025.12.12-20.30.22:609][719]PIE: Play in editor total start time 0.191 seconds.
+[2025.12.12-20.30.59:374][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-20.30.59:375][474]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.12.12-20.30.59:375][474]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-20.30.59:376][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-20.30.59:376][474]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.12.12-20.30.59:378][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-20.30.59:386][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-20.30.59:429][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.12-20.30.59:429][474]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.12-20.30.59:429][474]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.12.12-20.30.59:432][474]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.12.12-20.30.59:439][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-20.30.59:445][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.12.12-20.30.59:603][475]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.12.12-20.31.15:901][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:901][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:901][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:901][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GameplayStateTree/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GameplayStateTree/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Cascade/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Cascade/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:903][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.31.15:904][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.32.11:216][173]LogSlate: Window 'Submit Files' being destroyed
+[2025.12.12-20.32.12:949][173]LogSourceControl: commit successful: [main ec8a235] Added variables to track if the door is open, and what I beleive to be an array of BP Rune Pads. Added runepads and puzzledoor to the world map.
+[2025.12.12-20.32.13:789][173]SourceControl: [main ec8a235] Added variables to track if the door is open, and what I beleive to be an array of BP Rune Pads. Added runepads and puzzledoor to the world map.
+[2025.12.12-20.32.13:789][173]SourceControl:  6 files changed, 0 insertions(+), 0 deletions(-)
+[2025.12.12-20.32.13:789][173]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/2K/PQADYZPOYYF8I764QZI88E.uasset
+[2025.12.12-20.32.13:789][173]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/EW/FDELN26229XREQ0N1NHHMO.uasset
+[2025.12.12-20.32.13:789][173]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/KP/RXSMDJWFFEPDLLE9M5RAY5.uasset
+[2025.12.12-20.32.13:789][173]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/W1/ZV97L9TLY7OKYN94MJOITI.uasset
+[2025.12.12-20.32.13:808][173]SourceControl: Commited [main ec8a235] Added variables to track if the door is open, and what I beleive to be an array of BP Rune Pads. Added runepads and puzzledoor to the world map..
+[2025.12.12-20.32.13:926][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2500.381104
+[2025.12.12-20.32.14:617][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-20.32.14:617][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2500.779297, Update Interval: 331.888794
