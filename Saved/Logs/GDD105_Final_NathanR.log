@@ -1609,3 +1609,268 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.12-20.04.41:319][795]SourceControl: [main e27411d] Added active and should be active variables To Runepad
 [2025.12.12-20.04.41:319][795]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2025.12.12-20.04.41:334][795]SourceControl: Commited [main e27411d] Added active and should be active variables To Runepad.
+[2025.12.12-20.07.30:269][ 22]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1016.724670
+[2025.12.12-20.07.30:369][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-20.07.30:369][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1016.807861, Update Interval: 340.218506
+[2025.12.12-20.08.00:181][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.08.00:270][385]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.08.00:292][385]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_RunePad.BP_RunePad]
+[2025.12.12-20.08.00:292][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.08.00:320][385]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.08.00:322][385]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePad8F391826493B1E7EB01773BD734E6339.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.08.00:341][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.346 ms (total: 1.59 sec)
+[2025.12.12-20.08.00:434][385]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.08.00:434][385]LogContentValidation: Enabled validators:
+[2025.12.12-20.08.00:434][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.08.00:434][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.08.00:434][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.08.00:434][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.08.00:434][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.08.00:434][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.08.00:434][385]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.08.28:924][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.08.28:992][496]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.08.29:014][496]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_RunePad.BP_RunePad]
+[2025.12.12-20.08.29:014][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.08.29:039][496]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.08.29:041][496]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePad46CB5D564C846FFB49A20B8FEC9637D7.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.08.29:059][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.045 ms (total: 1.72 sec)
+[2025.12.12-20.08.29:359][496]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.08.29:359][496]LogContentValidation: Enabled validators:
+[2025.12.12-20.08.29:359][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.08.29:359][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.08.29:359][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.08.29:359][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.08.29:359][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.08.29:359][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.08.29:359][496]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.08.32:999][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.08.33:299][665]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.08.33:299][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.08.33:323][665]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.08.33:325][665]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePadA1B0A2FA43723F46E2548DA21A9350F5.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.08.33:343][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 344.394 ms (total: 2.06 sec)
+[2025.12.12-20.08.33:432][665]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.08.33:432][665]LogContentValidation: Enabled validators:
+[2025.12.12-20.08.33:432][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.08.33:432][665]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.08.33:432][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.08.33:432][665]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.08.33:432][665]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.08.33:432][665]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.08.33:432][665]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.08.45:630][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.08.45:948][983]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.08.45:971][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_RunePad.BP_RunePad]
+[2025.12.12-20.08.45:971][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.08.45:997][983]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.08.46:000][983]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePadB4E61A4B42A5B09D83F227879B9BE997.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.08.46:017][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 386.550 ms (total: 2.45 sec)
+[2025.12.12-20.08.46:104][983]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.08.46:105][983]LogContentValidation: Enabled validators:
+[2025.12.12-20.08.46:105][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.08.46:105][983]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.08.46:105][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.08.46:105][983]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.08.46:105][983]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.08.46:105][983]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.08.46:105][983]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.09.12:978][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.09.13:291][632]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.09.13:315][632]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_RunePad.BP_RunePad]
+[2025.12.12-20.09.13:315][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.09.13:341][632]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.09.13:343][632]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePad20EF30144C3DB1A19FCEB988B6A3F5F5.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.09.13:361][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 383.174 ms (total: 2.83 sec)
+[2025.12.12-20.09.13:446][632]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.09.13:446][632]LogContentValidation: Enabled validators:
+[2025.12.12-20.09.13:446][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.09.13:446][632]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.09.13:446][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.09.13:446][632]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.09.13:446][632]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.09.13:448][632]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.09.13:448][632]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.09.43:581][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.09.43:667][ 12]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.09.43:690][ 12]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_RunePad.BP_RunePad]
+[2025.12.12-20.09.43:690][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.09.43:718][ 12]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.09.43:719][ 12]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePad3A6242C044FD6ED03B54CC87E556423A.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.09.43:739][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.991 ms (total: 2.99 sec)
+[2025.12.12-20.09.43:832][ 12]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.09.43:832][ 12]LogContentValidation: Enabled validators:
+[2025.12.12-20.09.43:832][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.09.43:832][ 12]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.09.43:832][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.09.43:832][ 12]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.09.43:832][ 12]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.09.43:832][ 12]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.09.43:832][ 12]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.09.45:515][ 85]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.09.45:515][ 85]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.09.45:515][ 85]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.09.49:670][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.09.49:936][263]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.09.49:961][263]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_RunePad.BP_RunePad]
+[2025.12.12-20.09.49:961][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.09.49:987][263]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.09.49:989][263]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePadB6084DC14BFCBF611E7105A525ACB7D4.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.09.50:009][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 337.992 ms (total: 3.33 sec)
+[2025.12.12-20.09.50:102][263]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.09.50:102][263]LogContentValidation: Enabled validators:
+[2025.12.12-20.09.50:102][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.09.50:102][263]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.09.50:102][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.09.50:102][263]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.09.50:102][263]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.09.50:102][263]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.09.50:102][263]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.10.14:180][291]LogEditorTransaction: Undo Delete current selection
+[2025.12.12-20.10.36:721][286]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.36:721][286]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.36:721][286]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.47:686][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.10.47:780][799]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.10.48:019][799]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_RunePad.BP_RunePad]
+[2025.12.12-20.10.48:019][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.10.48:050][799]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.10.48:053][799]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePad19A763394E5B678CDF390984CAF4D84D.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.10.48:070][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 384.283 ms (total: 3.71 sec)
+[2025.12.12-20.10.48:180][799]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.10.48:180][799]LogContentValidation: Enabled validators:
+[2025.12.12-20.10.48:180][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.10.48:180][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.10.48:180][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.10.48:180][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.10.48:180][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.10.48:180][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.10.48:180][799]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.10.50:963][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.10.51:040][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.10.51:040][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.10.51:066][918]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.10.51:070][918]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePad0697344F4A5D5D7ADD0DB7AC5D06869C.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.10.51:088][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.175 ms (total: 3.84 sec)
+[2025.12.12-20.10.51:209][918]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.10.51:209][918]LogContentValidation: Enabled validators:
+[2025.12.12-20.10.51:209][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.10.51:209][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.10.51:209][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.10.51:209][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.10.51:209][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.10.51:209][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.10.51:209][918]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.10.54:222][ 58]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.54:222][ 58]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.54:222][ 58]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.57:285][200]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineDebugMaterials/BlackUnlitMaterial.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.57:285][200]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/MapTemplates/Sky/M_BlackBackground.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/MapTemplates/Sky/M_BlackBackground.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.57:285][200]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.57:285][200]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.10.58:778][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.10.58:878][251]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.10.58:902][251]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_RunePad.BP_RunePad]
+[2025.12.12-20.10.58:902][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.10.58:930][251]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.10.58:933][251]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePad1F12B65D44CCF246179EDBA486D70475.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.10.58:950][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.230 ms (total: 4.01 sec)
+[2025.12.12-20.10.59:020][251]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.10.59:020][251]LogContentValidation: Enabled validators:
+[2025.12.12-20.10.59:020][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.10.59:020][251]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.10.59:020][251]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.10.59:020][251]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.10.59:020][251]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.10.59:020][251]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.10.59:020][251]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.11.01:782][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.12.12-20.11.03:222][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-20.11.03:315][433]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LevelObjects/BP_RunePad] ([2] browsable assets)...
+[2025.12.12-20.11.03:339][433]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelObjects/BP_RunePad.BP_RunePad]
+[2025.12.12-20.11.03:339][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelObjects/BP_RunePad]
+[2025.12.12-20.11.03:367][433]LogSavePackage: Moving output files for package: /Game/LevelObjects/BP_RunePad
+[2025.12.12-20.11.03:370][433]LogSavePackage: Moving '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Saved/BP_RunePad460A001844409F3FCDF02C85AC4E2873.tmp' to '../../../../../../Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR/Content/LevelObjects/BP_RunePad.uasset'
+[2025.12.12-20.11.03:388][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.582 ms (total: 4.18 sec)
+[2025.12.12-20.11.03:696][433]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-20.11.03:696][433]LogContentValidation: Enabled validators:
+[2025.12.12-20.11.03:696][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-20.11.03:696][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-20.11.03:696][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-20.11.03:696][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-20.11.03:696][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-20.11.03:696][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-20.11.03:696][433]AssetCheck: /Game/LevelObjects/BP_RunePad Validating asset
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:815][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GameplayStateTree/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GameplayStateTree/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Cascade/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Cascade/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:816][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:817][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:817][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:817][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.11.41:817][627]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/nathan/Documents/Unreal Projects/GameDesign/GDD105_Final_NathanR'
+[2025.12.12-20.13.07:145][627]LogSlate: Window 'Submit Files' being destroyed
+[2025.12.12-20.13.07:969][627]LogSourceControl: commit successful: [main 73d42e2] Added UpdateVisuals and SetActiveState Functions to BP_Runepad. Runepad can now call these functions to detect when stepped on, and toggle active state internally and visually.
+[2025.12.12-20.13.08:090][627]SourceControl: [main 73d42e2] Added UpdateVisuals and SetActiveState Functions to BP_Runepad. Runepad can now call these functions to detect when stepped on, and toggle active state internally and visually.
+[2025.12.12-20.13.08:090][627]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2025.12.12-20.13.08:120][627]SourceControl: Commited [main 73d42e2] Added UpdateVisuals and SetActiveState Functions to BP_Runepad. Runepad can now call these functions to detect when stepped on, and toggle active state internally and visually..
